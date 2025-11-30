@@ -1,14 +1,13 @@
-# BankUml: Banking System Simulation
+# MyBankUml: Banking System Simulation
 
-Welcome to **BankUml**, a Java-based banking application designed to simulate core banking operations such as account management, transactions, and receipts.  
-
-This project demonstrates the use of Object-Oriented Programming (OOP) principles, including **Inheritance**, **Encapsulation**, **Abstraction**, and **Polymorphism**, strictly following the provided UML diagram.
+Welcome to **MyBankUml**, a Java-based banking application designed to simulate core banking operations such as account management and processing transactions.  
 
 ## Features
 
 - **Account Management**: Create and manage multiple types of bank accounts.
 - **Transaction Handling**: Simulate payments and generate receipts.
-- **UML-Driven Design**: Class structure directly follows the given UML diagram.
+- **Role-based permissions**: Assign user-specific permissions to access existing features based on their role.
+- **Search features**: Ability to filter the accounts based on attributes such as ID, name, etc. with the use of a database.
 
 ## Modifications
 This project is an extension of the original **BankUML** project. You can find the previous version here: [Old BankUML Project](https://github.com/M-PERSIC/BankUml).
